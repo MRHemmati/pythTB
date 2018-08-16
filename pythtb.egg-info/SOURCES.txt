@@ -1,0 +1,7 @@
+README.txt
+pythtb.py
+pythtb.egg-info/PKG-INFO
+pythtb.egg-info/SOURCES.txt
+pythtb.egg-info/dependency_links.txt
+pythtb.egg-info/requires.txt
+pythtb.egg-info/top_level.txt
